@@ -1,0 +1,8 @@
+    to: o
+
+    Dear n,
+    Thank you for your purchase of t. 
+    We hope you will buy again from us soon!
+
+    Regards,
+    n

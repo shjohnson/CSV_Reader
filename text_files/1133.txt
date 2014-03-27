@@ -1,8 +1,8 @@
-to: abrocha@gmail.com
+    to: abrocha@gmail.com
 
-  Dear Alberte Rocha,
-  Thank you for your purchase of 24-piece sterling silver tableware set. 
-  We hope you will buy again from us soon!
-  
-  Regards,
-  Cutlery-R-Us
+    Dear Alberte Rocha,
+    Thank you for your purchase of 24-piece sterling silver tableware set. 
+    We hope you will buy again from us soon!
+
+    Regards,
+    Cutlery-R-Us

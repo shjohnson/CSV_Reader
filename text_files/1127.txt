@@ -1,8 +1,8 @@
-to: g.vinci@gmail.com
+    to: g.vinci@gmail.com
 
-  Dear Gabi Vinci,
-  Thank you for your purchase of NiceIce 5000. 
-  We hope you will buy again from us soon!
-  
-  Regards,
-  FreezeCorp
+    Dear Gabi Vinci,
+    Thank you for your purchase of NiceIce 5000. 
+    We hope you will buy again from us soon!
+
+    Regards,
+    FreezeCorp

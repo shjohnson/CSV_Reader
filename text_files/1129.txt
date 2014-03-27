@@ -1,8 +1,8 @@
-to: harper.mcgee@gmail.com
+    to: harper.mcgee@gmail.com
 
-  Dear Harper McGee,
-  Thank you for your purchase of 500 novelty football-shaped pen toppers. 
-  We hope you will buy again from us soon!
-  
-  Regards,
-  MeBay
+    Dear Harper McGee,
+    Thank you for your purchase of 500 novelty football-shaped pen toppers. 
+    We hope you will buy again from us soon!
+
+    Regards,
+    MeBay
